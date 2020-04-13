@@ -1,0 +1,22 @@
+{
+  "name": "MyFirstRepo",
+  "version": "0.0.1",
+  "summary": "A simple indicator",
+  "homepage": "https://github.com/iOS-ZhuJiaNan/MyFirstRepo.git",
+  "license": "Apache",
+  "authors": {
+    "朱佳男": "754148169@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/iOS-ZhuJiaNan/MyFirstRepo.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Classes", "Classes/**/*.{h,m}",
+  "resources": "Classes/Exclude",
+  "requires_arc": true
+}
+
+
